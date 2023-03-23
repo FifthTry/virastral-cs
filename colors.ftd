@@ -319,8 +319,8 @@ light: #ec8943
 dark: #ec8943
 
 -- ftd.color custom-ten-:
-light: #da7a4a
-dark: #da7a4a
+light: #4f4f4f
+dark: #4f4f4f
 
 -- ftd.custom-colors custom-:
 one: $custom-one-
